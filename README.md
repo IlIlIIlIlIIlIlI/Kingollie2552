@@ -3,7 +3,7 @@
 <samp>
 
  Hi, Im egg aka javascript kid but you can call me daddy 😺 <br>
- 15 Years Old Dev <br> Familiar With: Javascript, Node.js, Python, Lua And C# (A bit of html/css)
+ 15 Years Old Dev <br> Familiar With: Javascript, Node.js, php, Python (Fav ofc), Lua And C# (A bit of html/css)
 
 >
 
