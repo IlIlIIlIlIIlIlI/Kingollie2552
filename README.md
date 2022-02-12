@@ -2,8 +2,8 @@
 <p align="center">
 <samp>
 
- Hi, Im egg aka javascript kid but you can call me daddy 😺 <br>
- 15 Years Old Dev <br> Familiar With: Javascript, Node.js, php, Python (Fav ofc), Lua And C# (A bit of html/css)
+ Hi, Im egg but you can call me daddy 😺 <br>
+ 15 Years Old Dev <br> Familiar With: Javascript, Node.js, Php, Python, Lua, Html, Css And Learning C#
 
 >
 
